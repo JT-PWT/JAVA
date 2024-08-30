@@ -1,0 +1,22 @@
+body{
+    color: rgb(236, 45, 6);
+
+}
+
+p{
+    background-color: rgb(28, 4, 163);
+    font-size: 100px;
+    text-align: center;
+
+}
+
+ol{
+    color: blue;
+}
+
+footer{
+    background-color: rgb(187, 30, 30);
+    text-align: center;
+
+}
+
